@@ -35,8 +35,8 @@ boolean-dev 的个人博客
 
 * [小程序分页实现](https://blog.booleandev.xyz/articles/2018/12/25/1545749124384.html)
 * [consul命令行](https://blog.booleandev.xyz/articles/2018/12/27/1545917809115.html)
-* [小程序获取用户信息无法得到问题](https://blog.booleandev.xyz/articles/2018/12/25/1545728095138.html)
 * [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678375.html)
+* [小程序获取用户信息无法得到问题](https://blog.booleandev.xyz/articles/2018/12/25/1545728095138.html)
 * [consul集群搭建](https://blog.booleandev.xyz/articles/2018/12/27/1545917879502.html)
 * [CenterOS7安装java](https://blog.booleandev.xyz/articles/2019/01/15/1547545668630.html)
 * [git 常用语句](https://blog.booleandev.xyz/articles/2019/01/04/1546594215178.html)
@@ -47,10 +47,10 @@ boolean-dev 的个人博客
 * [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git拉取远程指定分支到本地](https://blog.booleandev.xyz/articles/2019/01/04/1546594101045.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
+* [Nginx的安装](https://blog.booleandev.xyz/articles/2019/01/16/1547603535711.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
 * [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
-* [Nginx的安装](https://blog.booleandev.xyz/articles/2019/01/16/1547603535711.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
 * [测试](https://blog.booleandev.xyz/articles/2018/11/01/1541085337873.html)
 
