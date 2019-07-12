@@ -10,6 +10,7 @@ boolean-dev 的个人博客
 
 ### 最新
 
+* [nginx部署vue项目](https://blog.booleandev.xyz/articles/2019/07/11/1562835766753.html)
 * [我在 GitHub 上的开源项目](https://blog.booleandev.xyz/my-github-repos)
 * [[转]Java反射](https://blog.booleandev.xyz/articles/2019/07/09/1562636083963.html)
 * [[转]OAuth2.0 原理流程及其单点登录和权限控制](https://blog.booleandev.xyz/articles/2019/07/03/1562118097189.html)
@@ -29,7 +30,6 @@ boolean-dev 的个人博客
 * [BAT批处理运行项目](https://blog.booleandev.xyz/articles/2019/01/23/1548251101820.html)
 * [mongodb常用语句](https://blog.booleandev.xyz/articles/2019/01/23/1548250985452.html)
 * [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603755947.html)
-* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 
 ### 热门
 
@@ -61,6 +61,7 @@ boolean-dev 的个人博客
 * [常见的正则表达式](https://blog.booleandev.xyz/articles/2018/12/26/1545801169895.html)
 * [测试](https://blog.booleandev.xyz/articles/2018/12/27/1545874556732.html)
 * [linux设置环境变量](https://blog.booleandev.xyz/articles/2019/01/15/1547545744724.html)
+* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 
 ---
 
