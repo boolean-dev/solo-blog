@@ -44,24 +44,24 @@ boolean-dev 的个人博客
 * [mysql数据库安装](https://blog.booleandev.xyz/articles/2019/01/15/1547545821631.html)
 * [freemarker的时间相关](https://blog.booleandev.xyz/articles/2018/12/25/1545726842373.html)
 * [小程序requestUtil工具类](https://blog.booleandev.xyz/articles/2018/12/25/1545727966151.html)
-* [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git拉取远程指定分支到本地](https://blog.booleandev.xyz/articles/2019/01/04/1546594101045.html)
+* [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2019/01/16/1547603535711.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
 * [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
-* [常见的正则表达式](https://blog.booleandev.xyz/articles/2018/12/26/1545801169895.html)
+* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 
 ### 热议
 
 * [世界，你好！](https://blog.booleandev.xyz/hello-solo)
 * [测试](https://blog.booleandev.xyz/articles/2018/11/01/1541085337873.html)
 * [FreeMarker空值的处理](https://blog.booleandev.xyz/articles/2018/12/25/1545727792970.html)
+* [常见的正则表达式](https://blog.booleandev.xyz/articles/2018/12/26/1545801169895.html)
 * [测试](https://blog.booleandev.xyz/articles/2018/12/27/1545874556732.html)
 * [linux设置环境变量](https://blog.booleandev.xyz/articles/2019/01/15/1547545744724.html)
-* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 
 ---
 
