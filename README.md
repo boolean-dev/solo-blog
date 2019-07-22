@@ -49,9 +49,9 @@ boolean-dev 的个人博客
 * [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
+* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 * [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
-* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
 
 ### 热议
