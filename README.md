@@ -50,9 +50,9 @@ boolean-dev 的个人博客
 * [git拉取远程指定分支到本地](https://blog.booleandev.xyz/articles/2019/01/04/1546594101045.html)
 * [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
+* [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
 * [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
-* [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
 
 ### 热议
 
