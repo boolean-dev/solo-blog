@@ -10,6 +10,7 @@ boolean-dev 的个人博客
 
 ### 最新
 
+* [volatile关键字解析](https://blog.booleandev.xyz/articles/2019/08/07/1565150117052.html)
 * [nginx部署vue项目](https://blog.booleandev.xyz/articles/2019/07/11/1562835766753.html)
 * [我在 GitHub 上的开源项目](https://blog.booleandev.xyz/my-github-repos)
 * [[转]Java反射](https://blog.booleandev.xyz/articles/2019/07/09/1562636083963.html)
@@ -29,14 +30,13 @@ boolean-dev 的个人博客
 * [常见的正则表达](https://blog.booleandev.xyz/articles/2019/01/23/1548251188187.html)
 * [BAT批处理运行项目](https://blog.booleandev.xyz/articles/2019/01/23/1548251101820.html)
 * [mongodb常用语句](https://blog.booleandev.xyz/articles/2019/01/23/1548250985452.html)
-* [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603755947.html)
 
 ### 热门
 
 * [小程序分页实现](https://blog.booleandev.xyz/articles/2018/12/25/1545749124384.html)
 * [consul命令行](https://blog.booleandev.xyz/articles/2018/12/27/1545917809115.html)
-* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678375.html)
 * [CenterOS7安装java](https://blog.booleandev.xyz/articles/2019/01/15/1547545668630.html)
+* [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678375.html)
 * [小程序获取用户信息无法得到问题](https://blog.booleandev.xyz/articles/2018/12/25/1545728095138.html)
 * [consul集群搭建](https://blog.booleandev.xyz/articles/2018/12/27/1545917879502.html)
 * [git 常用语句](https://blog.booleandev.xyz/articles/2019/01/04/1546594215178.html)
@@ -44,6 +44,7 @@ boolean-dev 的个人博客
 * [mysql数据库安装](https://blog.booleandev.xyz/articles/2019/01/15/1547545821631.html)
 * [freemarker的时间相关](https://blog.booleandev.xyz/articles/2018/12/25/1545726842373.html)
 * [小程序requestUtil工具类](https://blog.booleandev.xyz/articles/2018/12/25/1545727966151.html)
+* [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603755947.html)
 * [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2019/01/16/1547603535711.html)
@@ -51,7 +52,6 @@ boolean-dev 的个人博客
 * [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
-* [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
 
 ### 热议
@@ -61,6 +61,7 @@ boolean-dev 的个人博客
 * [FreeMarker空值的处理](https://blog.booleandev.xyz/articles/2018/12/25/1545727792970.html)
 * [常见的正则表达式](https://blog.booleandev.xyz/articles/2018/12/26/1545801169895.html)
 * [测试](https://blog.booleandev.xyz/articles/2018/12/27/1545874556732.html)
+* [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 * [linux设置环境变量](https://blog.booleandev.xyz/articles/2019/01/15/1547545744724.html)
 
 ---
