@@ -52,7 +52,7 @@ boolean-dev 的个人博客
 * [nginx+tomcat+二级域名+https](https://blog.booleandev.xyz/articles/2019/01/15/1547546090431.html)
 * [git提交代码](https://blog.booleandev.xyz/articles/2019/01/04/1546594183340.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2018/12/26/1545801336813.html)
-* [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
+* [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
 
 ### 热议
 
@@ -61,7 +61,7 @@ boolean-dev 的个人博客
 * [FreeMarker空值的处理](https://blog.booleandev.xyz/articles/2018/12/25/1545727792970.html)
 * [常见的正则表达式](https://blog.booleandev.xyz/articles/2018/12/26/1545801169895.html)
 * [测试](https://blog.booleandev.xyz/articles/2018/12/27/1545874556732.html)
-* [git合并远程分支](https://blog.booleandev.xyz/articles/2019/01/04/1546594051488.html)
+* [git版本回退](https://blog.booleandev.xyz/articles/2019/01/04/1546594155112.html)
 * [linux设置环境变量](https://blog.booleandev.xyz/articles/2019/01/15/1547545744724.html)
 
 ---
