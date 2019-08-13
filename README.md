@@ -10,10 +10,10 @@ boolean-dev 的个人博客
 
 ### 最新
 
-* [Java锁解析](https://blog.booleandev.xyz/articles/2019/08/12/1565574929511.html)
-* [并发下的集合](https://blog.booleandev.xyz/articles/2019/08/12/1565572666168.html)
-* [Java CAS操作的ABA问题](https://blog.booleandev.xyz/articles/2019/08/12/1565572555703.html)
-* [Java CAS 原理剖析](https://blog.booleandev.xyz/articles/2019/08/12/1565572468417.html)
+* [[转]Java锁解析](https://blog.booleandev.xyz/articles/2019/08/12/1565574929511.html)
+* [[转]并发下的集合](https://blog.booleandev.xyz/articles/2019/08/12/1565572666168.html)
+* [[转]Java CAS操作的ABA问题](https://blog.booleandev.xyz/articles/2019/08/12/1565572555703.html)
+* [[转]Java CAS 原理剖析](https://blog.booleandev.xyz/articles/2019/08/12/1565572468417.html)
 * [volatile关键字解析](https://blog.booleandev.xyz/articles/2019/08/07/1565150117052.html)
 * [nginx部署vue项目](https://blog.booleandev.xyz/articles/2019/07/11/1562835766753.html)
 * [我在 GitHub 上的开源项目](https://blog.booleandev.xyz/my-github-repos)
