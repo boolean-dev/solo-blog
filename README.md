@@ -34,8 +34,8 @@ boolean-dev 的个人博客
 ### 热门
 
 * [consul命令行](https://blog.booleandev.xyz/articles/2018/12/27/1545917809115.html)
-* [小程序分页实现](https://blog.booleandev.xyz/articles/2018/12/25/1545749124384.html)
 * [CenterOS7安装java](https://blog.booleandev.xyz/articles/2019/01/15/1547545668630.html)
+* [小程序分页实现](https://blog.booleandev.xyz/articles/2018/12/25/1545749124384.html)
 * [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678375.html)
 * [mongodb常用语句](https://blog.booleandev.xyz/articles/2019/01/23/1548250985452.html)
 * [小程序获取用户信息无法得到问题](https://blog.booleandev.xyz/articles/2018/12/25/1545728095138.html)
@@ -47,8 +47,8 @@ boolean-dev 的个人博客
 * [mysql数据库安装](https://blog.booleandev.xyz/articles/2019/01/15/1547545821631.html)
 * [freemarker的时间相关](https://blog.booleandev.xyz/articles/2018/12/25/1545726842373.html)
 * [小程序requestUtil工具类](https://blog.booleandev.xyz/articles/2018/12/25/1545727966151.html)
-* [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603755947.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
+* [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603755947.html)
 * [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678631.html)
 * [git拉取远程指定分支到本地](https://blog.booleandev.xyz/articles/2019/01/04/1546594101045.html)
 * [Nginx的安装](https://blog.booleandev.xyz/articles/2019/01/16/1547603535711.html)
