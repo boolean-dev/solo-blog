@@ -33,8 +33,8 @@ boolean-dev 的个人博客
 
 ### 热门
 
-* [consul命令行](https://blog.booleandev.xyz/articles/2018/12/27/1545917809115.html)
 * [CenterOS7安装java](https://blog.booleandev.xyz/articles/2019/01/15/1547545668630.html)
+* [consul命令行](https://blog.booleandev.xyz/articles/2018/12/27/1545917809115.html)
 * [小程序分页实现](https://blog.booleandev.xyz/articles/2018/12/25/1545749124384.html)
 * [Nginx设置二级域名映射到不同的Tomcat](https://blog.booleandev.xyz/articles/2019/01/16/1547603678375.html)
 * [mongodb常用语句](https://blog.booleandev.xyz/articles/2019/01/23/1548250985452.html)
