@@ -10,6 +10,7 @@ boolean-dev 的个人博客
 
 ### 最新
 
+* [[转]多线程之Callable](https://blog.booleandev.xyz/articles/2019/08/23/1566549984055.html)
 * [Jenkins集成部署SpringBoot](https://blog.booleandev.xyz/articles/2019/08/22/1566464379437.html)
 * [[转]synchronized与Lock的区别与使用](https://blog.booleandev.xyz/articles/2019/08/22/1566457214603.html)
 * [[转]Java实现生产者和消费者的5种方式](https://blog.booleandev.xyz/articles/2019/08/22/1566454774136.html)
@@ -29,7 +30,6 @@ boolean-dev 的个人博客
 * [[转]Java反射](https://blog.booleandev.xyz/articles/2019/07/09/1562636083963.html)
 * [[转]OAuth2.0 原理流程及其单点登录和权限控制](https://blog.booleandev.xyz/articles/2019/07/03/1562118097189.html)
 * [手写MyBatis](https://blog.booleandev.xyz/articles/2019/07/01/1561965270092.html)
-* [OAuth2.0登录的四种方式](https://blog.booleandev.xyz/articles/2019/06/17/1560742282779.html)
 
 ### 热门
 
@@ -45,8 +45,8 @@ boolean-dev 的个人博客
 * [BAT批处理运行项目](https://blog.booleandev.xyz/articles/2019/01/23/1548251101820.html)
 * [git 常用语句](https://blog.booleandev.xyz/articles/2019/01/04/1546594215178.html)
 * [mongodb查询指定字段](https://blog.booleandev.xyz/articles/2019/01/23/1548251460416.html)
-* [mysql数据库安装](https://blog.booleandev.xyz/articles/2019/01/15/1547545821631.html)
 * [服务器安装多个Tomcat](https://blog.booleandev.xyz/articles/2018/12/25/1545727844628.html)
+* [mysql数据库安装](https://blog.booleandev.xyz/articles/2019/01/15/1547545821631.html)
 * [freemarker的时间相关](https://blog.booleandev.xyz/articles/2018/12/25/1545726842373.html)
 * [小程序requestUtil工具类](https://blog.booleandev.xyz/articles/2018/12/25/1545727966151.html)
 * [CenterOS7安装java8](https://blog.booleandev.xyz/articles/2019/01/15/1547545710148.html)
